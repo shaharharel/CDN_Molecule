@@ -3,7 +3,7 @@
 ## Requirements
 
 - Python 2.7
-- Tensorflow > 0.12
+- Tensorflow
 - RDKit
 - Numpy
 
